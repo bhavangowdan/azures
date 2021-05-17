@@ -1,1 +1,1 @@
-# azures
+sudo apt-get install git-all
